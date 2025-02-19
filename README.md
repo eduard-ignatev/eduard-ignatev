@@ -1,9 +1,8 @@
 ## Hi there 👽
-I'm a Machine Learning Engineer with background in energy industry.
-- My secondary interest is Data Engineering
-- Using Manjaro Linux on my desktop
-- I enjoy filter coffee and film photography
-- Reach me if you want to collaborate on hackathons or kaggle
+I'm a Machine Learning Engineer with experience in developing models for compliance and fraud detection, but also a background in energy industry.
+- Working through a roadmap to MLE/MLOps pro
+- Running Manjaro Linux on my Thinkpad T450s
+- I enjoy filter coffee, hiking and film photography
 
 <div align="center">
 
@@ -21,10 +20,6 @@ I'm a Machine Learning Engineer with background in energy industry.
 
   <a href="https://t.me/eduard_visions">
     <img alt="Telegram" width="20px" src="https://simpleicons.now.sh/telegram/495f7e" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eduard-ignatev-601334120/">
-    <img alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
   </a>
 
 </div>
